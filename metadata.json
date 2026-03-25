@@ -1,0 +1,5 @@
+{
+  "name": "Tiskivuoro",
+  "description": "Yksinkertainen sovellus tiskivuorojen seuraamiseen E:n ja J:n välillä.",
+  "requestFramePermissions": []
+}
